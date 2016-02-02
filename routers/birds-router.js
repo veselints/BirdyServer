@@ -11,7 +11,9 @@ router.get('/', birdsController.getAll)
     .get('/:id', birdsController.getById)
     .post('/', birdsController.create)
     .put('/coordinates/:id', birdsController.addCoordinates)
-    .put('/picture/:id', birdsController.changePicture);
+    .put('/picture/:id', birdsController.changePicture)
+    .delete('/:name', birdsController.deleteByName)
+    .post('/fill', birdsController.bulckCreate);
 
 module.exports = function(app) {
     app.use('/api/birds', router);

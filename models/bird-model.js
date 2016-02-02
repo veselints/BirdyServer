@@ -26,9 +26,9 @@ let birdSchema = new mongoose.Schema({
         required: true
     },
     picture: {
-        type: String,
-        required: true
+        type: String
     },
+    // required: true
     coordinates: [{
         latitude: {
             type: String,

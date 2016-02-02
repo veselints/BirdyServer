@@ -74,6 +74,21 @@ let getCoordinatesById = function(req, res, next) {
         });
 };
 
+let deleteByName = function(req, res, next) {
+    let currentName = req.params.name;
+
+    Bird.remove({
+        'name': currentName
+    }, function(err) {
+        if (err) {
+            next(err);
+            return;
+        } 
+        res.status(200);
+        res.json({currentName});
+    });
+};
+
 let create = function(req, res, next) {
     var newBird = new Bird(req.body);
     newBird.lastObservedAt = Date.now();
@@ -81,7 +96,7 @@ let create = function(req, res, next) {
     var imgPath = './img/logo.png';
     var bitmap = fs.readFileSync(imgPath);
     var imageBufer = new Buffer(bitmap).toString('base64');
-    newBird.picture = imageBufer;
+    // newBird.picture = imageBufer;
 
     newBird.save(function(err) {
         if (err) {
@@ -94,6 +109,22 @@ let create = function(req, res, next) {
         } else {
             res.status(201);
             res.json(newBird);
+        }
+    });
+};
+
+let bulckCreate = function(req, res, next) {
+    Bird.create(req.body, function(err, birds) {
+        if (err) {
+            let error = {
+                message: err.message,
+                status: 400
+            };
+            next(err);
+            return;
+        } else {
+            res.status(201);
+            res.json(birds);
         }
     });
 };
@@ -181,7 +212,9 @@ let controller = {
     getCoordinatesById,
     create,
     addCoordinates,
-    changePicture
+    changePicture,
+    deleteByName,
+    bulckCreate
 };
 
 module.exports = controller;
