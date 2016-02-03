@@ -5,7 +5,6 @@ require('mongoose-double')(mongoose);
 
 var SchemaTypes = mongoose.Schema.Types;
 
-// Defining producer schema - similar as EF code first for db entry
 let birdSchema = new mongoose.Schema({
     name: {
         type: String,
@@ -26,9 +25,9 @@ let birdSchema = new mongoose.Schema({
         required: true
     },
     picture: {
-        type: String
+        type: String,
+        required: true
     },
-    // required: true
     coordinates: [{
         latitude: {
             type: String,

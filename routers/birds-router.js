@@ -12,6 +12,7 @@ router.get('/', birdsController.getAll)
     .post('/', birdsController.create)
     .put('/coordinates/:id', birdsController.addCoordinates)
     .put('/picture/:id', birdsController.changePicture)
+    .delete('/', birdsController.deleteAll)
     .delete('/:name', birdsController.deleteByName)
     .post('/fill', birdsController.bulckCreate);
 

@@ -83,9 +83,11 @@ let deleteByName = function(req, res, next) {
         if (err) {
             next(err);
             return;
-        } 
+        }
         res.status(200);
-        res.json({currentName});
+        res.json({
+            currentName
+        });
     });
 };
 
@@ -96,11 +98,6 @@ let create = function(req, res, next) {
         latitude: req.body.latitude,
         longitude: req.body.longitude
     }];
-
-    var imgPath = './img/logo.png';
-    var bitmap = fs.readFileSync(imgPath);
-    var imageBufer = new Buffer(bitmap).toString('base64');
-    newBird.picture = imageBufer;
 
     newBird.save(function(err) {
         if (err) {
@@ -117,8 +114,8 @@ let create = function(req, res, next) {
     });
 };
 
-let bulckCreate = function(req, res, next) {
-    Bird.create(req.body, function(err, birds) {
+let deleteAll = function(req, res, next) {
+    Bird.remove({}, function(err) {
         if (err) {
             let error = {
                 message: err.message,
@@ -128,9 +125,49 @@ let bulckCreate = function(req, res, next) {
             return;
         } else {
             res.status(201);
-            res.json(birds);
+            res.json(newBird);
         }
     });
+};
+
+let bulckCreate = function(req, res, next) {
+    let len = req.body.length;
+
+    for (let i = 0; i < len; i++) {
+        var newBird = new Bird(req.body[i]);
+        var pictureNumber = (i + 1).toString();
+        var imgPath = './img/' + pictureNumber + '.png';
+        var bitmap = fs.readFileSync(imgPath);
+        var imageBufer = new Buffer(bitmap).toString('base64');
+        newBird.picture = imageBufer;
+
+        newBird.save(function(err) {
+            if (err) {
+                let error = {
+                    message: err.message,
+                    status: 400
+                };
+                next(err);
+                return;
+            } else {
+                res.status(201);
+                res.json(newBird);
+            }
+        });
+    };
+    // Bird.create(req.body, function(err) {
+    //     if (err) {
+    //         let error = {
+    //             message: err.message,
+    //             status: 400
+    //         };
+    //         next(err);
+    //         return;
+    //     } else {
+    //         res.status(201);
+    //         res.json({});
+    //     }
+    // });
 };
 
 let addCoordinates = function(req, res, next) {
