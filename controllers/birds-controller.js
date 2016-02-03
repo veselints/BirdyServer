@@ -96,7 +96,7 @@ let create = function(req, res, next) {
     var imgPath = './img/logo.png';
     var bitmap = fs.readFileSync(imgPath);
     var imageBufer = new Buffer(bitmap).toString('base64');
-    // newBird.picture = imageBufer;
+    newBird.picture = imageBufer;
 
     newBird.save(function(err) {
         if (err) {
