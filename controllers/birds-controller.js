@@ -255,7 +255,8 @@ let controller = {
     addCoordinates,
     changePicture,
     deleteByName,
-    bulckCreate
+    bulckCreate,
+    deleteAll
 };
 
 module.exports = controller;
