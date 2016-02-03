@@ -150,11 +150,14 @@ let bulckCreate = function(req, res, next) {
                 next(err);
                 return;
             } else {
-                res.status(201);
-                res.json(newBird);
+
             }
         });
+
+        console.log(i);
     };
+
+    res.json({});
     // Bird.create(req.body, function(err) {
     //     if (err) {
     //         let error = {
