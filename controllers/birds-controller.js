@@ -92,6 +92,10 @@ let deleteByName = function(req, res, next) {
 let create = function(req, res, next) {
     var newBird = new Bird(req.body);
     newBird.lastObservedAt = Date.now();
+    newBird.coordinates = [{
+        latitude: req.body.latitude,
+        longitude: req.body.longitude
+    }];
 
     var imgPath = './img/logo.png';
     var bitmap = fs.readFileSync(imgPath);

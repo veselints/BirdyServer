@@ -17,7 +17,7 @@ let birdSchema = new mongoose.Schema({
         required: true,
         unique: true
     },
-    description: {
+    descr: {
         type: String,
         required: true
     },
