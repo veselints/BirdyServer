@@ -125,7 +125,7 @@ let deleteAll = function(req, res, next) {
             return;
         } else {
             res.status(201);
-            res.json(newBird);
+            res.json({});
         }
     });
 };
