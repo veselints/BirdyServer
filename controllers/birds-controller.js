@@ -108,7 +108,7 @@ let create = function(req, res, next) {
                 message: err.message,
                 status: 400
             };
-            next(error);
+            next(err);
             return;
         } else {
             res.status(201);
