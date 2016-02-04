@@ -194,20 +194,19 @@ let addCoordinates = function(req, res, next) {
             return;
         }
 
-        dbBird.coordinates.push(coordinates);
+        dbBird.coordinates.push({
+            latitude: coordinates.latitude,
+            longitude: coordinates.longitude
+        });
         dbBird.lastObservedAt = Date.now();
 
         dbBird.save(function(err) {
             if (err) {
-                let error = {
-                    message: err.message,
-                    status: 400
-                };
                 next(error);
                 return;
             } else {
                 res.status(200);
-                res.json(dbBird);
+                res.json(dbBird.coordinates);
             }
         });
     });
