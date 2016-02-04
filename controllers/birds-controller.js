@@ -18,7 +18,10 @@ let getCount = function(req, res, next) {
 };
 
 let getAll = function(req, res, next) {
-    Bird.find({}, function(err, birds) {
+    Bird.find({})
+    .sort({'lastObservedAt': -1})
+    .limit(5)
+    .exec(function(err, birds) {
         if (err) {
             next(err);
             return;
