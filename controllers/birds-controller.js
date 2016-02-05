@@ -161,19 +161,6 @@ let bulckCreate = function(req, res, next) {
     };
 
     res.json({});
-    // Bird.create(req.body, function(err) {
-    //     if (err) {
-    //         let error = {
-    //             message: err.message,
-    //             status: 400
-    //         };
-    //         next(err);
-    //         return;
-    //     } else {
-    //         res.status(201);
-    //         res.json({});
-    //     }
-    // });
 };
 
 let addCoordinates = function(req, res, next) {
