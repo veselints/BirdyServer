@@ -22,7 +22,7 @@ let getAll = function(req, res, next) {
         .sort({
             'lastObservedAt': -1
         })
-        .limit(5)
+        //.limit(5)
         .exec(function(err, birds) {
             if (err) {
                 next(err);
