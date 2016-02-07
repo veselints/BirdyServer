@@ -24,6 +24,10 @@ let birdSchema = new mongoose.Schema({
         type: Date,
         required: true
     },
+    createdOn: {
+        type: Date,
+        required: true
+    },
     picture: {
         type: String,
         required: true
@@ -35,6 +39,10 @@ let birdSchema = new mongoose.Schema({
         },
         longitude: {
             type: String,
+            required: true
+        },
+        createdOn: {
+            type: Date,
             required: true
         }
     }],

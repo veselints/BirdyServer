@@ -8,6 +8,7 @@ let router = express.Router();
 
 router.get('/', birdsController.getAll)
     .get('/coordinates/:id', birdsController.getCoordinatesById)
+    .get('/new/:date', birdsController.getBirdsAfterDate)
     .get('/:id', birdsController.getById)
     .post('/', birdsController.create)
     .put('/coordinates/:id', birdsController.addCoordinates)

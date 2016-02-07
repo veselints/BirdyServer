@@ -4,358 +4,430 @@
     "descr": "The adult of this species is highly distinctive, with its pink body, pale orange legs and bill, and glossy black head, wings and tail. Males in the breeding season have elongated head feathers which form a wispy crest that is fluffed and more prominent when the bird gets excited; the crest is shorter in winter and the black areas have paler feather edges, which get worn away as well as the black becoming more glossy in the breeding season. Winter plumage in males is rather dull. Females have a short crest and are duller overall, especially without the sharp separation between pink and black. The juvenile can be distinguished from common starling (Sturnus vulgaris) by its obviously paler plumage and short yellow bill. Young birds molt into a subdued version of the adult plumage, lacking the crest, in autumn and acquire the adult plumage when they are nearly one year old in females, and nearly two years in males. The latter in their second year wear a plumage similar to adult females but with longer crests and noticeably pale feather edges.",
     "coordinates": [{
         "latitude": "42.687411",
-        "longitude": "23.377685"
+        "longitude": "23.377685",
+        "createdOn": "2016-01-31T23:08:43.156Z"
     }],
     "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Испанско врабче",
     "latinName": "Passer hispaniolensis",
     "descr": "The Spanish sparrow is a rather large sparrow, at 15–16 cm (5.9–6.3 in) in length, and 22–36 g (0.8–1.3 oz) in weight. It is slightly larger and heavier than house sparrows, and also has a slightly longer and stouter bill. The male is similar to the house sparrow in plumage, but differs in that its underparts are heavily streaked with black, has a chestnut rather than grey crown, and has white rather than grey cheeks. The female is effectively inseparable from house sparrow in its plumage, which is grey-brown overall but more boldly marked. The female has light streaking on its sides, a pale cream supercilium, and broad cream streaks on its back. The two subspecies differ little in worn breeding plumage, but both sexes are quite distinct in fresh winter plumage, with the eastern subspecies P. h. transcaspicus paler with less chestnut.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.701672",
         "longitude": "23.274922"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Италианско врабче",
     "latinName": "Passer italiae",
-    "descr": "The Italian sparrow is a small chunky bird, with grey and brown plumage. The sexes differ in their plumage pattern, and slightly in length. The male has a head patterned like that of the Spanish sparrow, with a chestnut crown, nape and sides of head, and white cheeks. The male's upperparts are bright chestnut, and its underparts are pale grey, lacking the black streaking of the Spanish sparrow. The male has a black patch on its throat and chest, known as a bib or badge. This patch, like much of the male's plumage is dull in fresh non-breeding plumage and is brightened by wear and preening. The female is nearly identical to the female house sparrow, but it differs from the female Spanish sparrow in its lack of black streaks on the underparts. Albinism is occasionally recorded. \\n\\nThe Italian sparrow is about the same size as the house sparrow at 14–16 centimetres (5.5–6.3 in) in length. The tail is 5.3–6 centimetres (2.1–2.4 in), the tarsus 18.6–21 millimetres (0.73–0.83 in), and wing lengths for males are 7.3–8.2 centimetres (2.9–3.2 in). The Italian sparrow's weight varies seasonally from 30 grams (1.1 oz) in the winter to 26 grams (0.92 oz) in the summer. \\n\\nThe vocalisations of the Italian sparrow are similar to those of both the Spanish sparrow and the house sparrow. Its vocalisations carry better in natural environments than those of the house sparrow. The male gives a chreep call like that of the Spanish sparrow to proclaim nest ownership, and a faster version of this as part of courtship display. Male song patterns grade slowly into those of the Spanish sparrow across southern Italy, but in the area of overlap between the house and Italian sparrows, the two birds sound alike.",
+    "descr": "The Italian sparrow is a small chunky bird, with grey and brown plumage. The sexes differ in their plumage pattern, and slightly in length. The male has a head patterned like that of the Spanish sparrow, with a chestnut crown, nape and sides of head, and white cheeks. The male's upperparts are bright chestnut, and its underparts are pale grey, lacking the black streaking of the Spanish sparrow. The male has a black patch on its throat and chest, known as a bib or badge. This patch, like much of the male's plumage is dull in fresh non-breeding plumage and is brightened by wear and preening. The female is nearly identical to the female house sparrow, but it differs from the female Spanish sparrow in its lack of black streaks on the underparts. Albinism is occasionally recorded. \n\nThe Italian sparrow is about the same size as the house sparrow at 14–16 centimetres (5.5–6.3 in) in length. The tail is 5.3–6 centimetres (2.1–2.4 in), the tarsus 18.6–21 millimetres (0.73–0.83 in), and wing lengths for males are 7.3–8.2 centimetres (2.9–3.2 in). The Italian sparrow's weight varies seasonally from 30 grams (1.1 oz) in the winter to 26 grams (0.92 oz) in the summer. \n\nThe vocalisations of the Italian sparrow are similar to those of both the Spanish sparrow and the house sparrow. Its vocalisations carry better in natural environments than those of the house sparrow. The male gives a chreep call like that of the Spanish sparrow to proclaim nest ownership, and a faster version of this as part of courtship display. Male song patterns grade slowly into those of the Spanish sparrow across southern Italy, but in the area of overlap between the house and Italian sparrows, the two birds sound alike.",
     "coordinates": [{
+        "createdOn": "2016-01-31T23:08:43.156Z",
         "latitude": "42.687469",
         "longitude": "23.337513"
     }],
     "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2016-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Пустинно врабче",
     "latinName": "Passer simplex",
-    "descr": "The desert sparrow is not afraid to come near humans and sometimes builds nests in muddy walls. The Mozabite Berbers build their homes with holes in the walls to welcome these birds, which they call bar-rode, and if one sings all day in the house, they say this is a sign of good news. The Tuareg, who call the bird moula-moula, also say that this bird brings good news when it comes to stay near the camp. \\n\\nThis bird is becoming scarcer as a result of habitat destruction. The IUCN Red List nonetheless classifies both species it recognises as being of least concern for conservation, as it did before the split was recognised.",
+    "descr": "The desert sparrow is not afraid to come near humans and sometimes builds nests in muddy walls. The Mozabite Berbers build their homes with holes in the walls to welcome these birds, which they call bar-rode, and if one sings all day in the house, they say this is a sign of good news. The Tuareg, who call the bird moula-moula, also say that this bird brings good news when it comes to stay near the camp. \n\nThis bird is becoming scarcer as a result of habitat destruction. The IUCN Red List nonetheless classifies both species it recognises as being of least concern for conservation, as it did before the split was recognised.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.678915",
         "longitude": "23.337717"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Снежно врабче",
     "latinName": "Montifringilla nivalis",
-    "descr": "The white-winged snowfinch is a large stocky snowfinch at 16.5–19 centimetres (6.5–7.5 in) in length. It has brown upperparts, white underparts and a grey head. There is a long narrow white wing panel. In summer, the bill is black, and there is a black bib. The bib is lost in winter and the bill becomes yellow. Sexes are similar. \\n\\nIn flight, it shows black wings with huge white wing panels, and a white edged black tail. This bird has a chattering song with many trills, and variety of rolling or creaky calls.",
+    "descr": "The white-winged snowfinch is a large stocky snowfinch at 16.5–19 centimetres (6.5–7.5 in) in length. It has brown upperparts, white underparts and a grey head. There is a long narrow white wing panel. In summer, the bill is black, and there is a black bib. The bib is lost in winter and the bill becomes yellow. Sexes are similar. \n\nIn flight, it shows black wings with huge white wing panels, and a white edged black tail. This bird has a chattering song with many trills, and variety of rolling or creaky calls.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.669928",
         "longitude": "23.363527"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Обикновена чинка",
     "latinName": "Fringilla coelebs",
-    "descr": "The chaffinch is about 14.5 cm (5.7 in) long, with a wingspan of 24.5–28.5 cm (9.6–11.2 in) and a weight of 18–29 g (0.63–1.02 oz). The adult male of the nominate subspecies has a black forehead and a blue-grey crown, nape and upper mantle. The rump is a light olive-green; the lower mantle and scapulars form a brown saddle. The side of head, throat and breast are a dull rust-red merging to a pale creamy-pink on the belly. The central pair of tail feathers are dark grey with a black shaft streak. The rest of the tail is black apart from the two outer feathers on each side which have white wedges. Each wing has a contrasting white panel on the coverts and a buff-white bar on the secondaries and inner primaries. The flight feathers are black with white on the basal portions of the vanes. The secondaries and inner primaries have pale yellow fringes on the outer web whereas the outer primaries have a white outer edge. \\n\\nAfter the autumn moult the tips of the new feathers have a buff fringe that adds a brown cast to the coloured plumage. The ends of the feathers wear away over the winter so that by the spring breeding season the underlying brighter colours are displayed. The eyes have dark brown irises and the legs are grey-brown. In winter the bill is a pale grey and slightly darker along the upper ridge or culmen, but in spring the bill becomes bluish-grey with a small black tip. \\n\\nThe adult female is much duller in appearance than the male. The head and most of upperparts are shades of grey-brown. The underparts are paler. The lower back and rump are a dull olive green. The wings and tail are similar to those of the male. The juvenile resembles the female.",
+    "descr": "The chaffinch is about 14.5 cm (5.7 in) long, with a wingspan of 24.5–28.5 cm (9.6–11.2 in) and a weight of 18–29 g (0.63–1.02 oz). The adult male of the nominate subspecies has a black forehead and a blue-grey crown, nape and upper mantle. The rump is a light olive-green; the lower mantle and scapulars form a brown saddle. The side of head, throat and breast are a dull rust-red merging to a pale creamy-pink on the belly. The central pair of tail feathers are dark grey with a black shaft streak. The rest of the tail is black apart from the two outer feathers on each side which have white wedges. Each wing has a contrasting white panel on the coverts and a buff-white bar on the secondaries and inner primaries. The flight feathers are black with white on the basal portions of the vanes. The secondaries and inner primaries have pale yellow fringes on the outer web whereas the outer primaries have a white outer edge. \n\nAfter the autumn moult the tips of the new feathers have a buff fringe that adds a brown cast to the coloured plumage. The ends of the feathers wear away over the winter so that by the spring breeding season the underlying brighter colours are displayed. The eyes have dark brown irises and the legs are grey-brown. In winter the bill is a pale grey and slightly darker along the upper ridge or culmen, but in spring the bill becomes bluish-grey with a small black tip. \n\nThe adult female is much duller in appearance than the male. The head and most of upperparts are shades of grey-brown. The underparts are paler. The lower back and rump are a dull olive green. The wings and tail are similar to those of the male. The juvenile resembles the female.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.683400",
         "longitude": "23.353543"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Планинска чинка",
     "latinName": "Fringilla montifringilla",
-    "descr": "The brambling is similar in size and shape to a common chaffinch. Breeding-plumaged male bramblings are very distinctive, with a black head, dark upperparts, orange breast and white belly. Females and younger birds are less distinct, and more similar in appearance to some chaffinches. In all plumages, however, bramblings differs from chaffinches in a number of features. Brambling has a white rump whereas that of chaffinch is grey-green. the breast is orange, contrasting with a white belly on brambling, whereas on chaffinch the underparts of more uniformly coloured (pink or buff). Brambling's scapulars are orange, whereas chaffinch's are grey or grey-brown. The flanks are dark-spotted on brambling, plain on chaffinch. Bramblings lack the white outer tail feathers of chaffinch. \\n\\nAn additional difference for all plumages except breeding-plumaged males is the bill colour - yellow in brambling, dull pinkish in chaffinch (breeding-plumaged male bramblings have black bills, chaffinches in the corresponding plumage have grey bills).",
+    "descr": "The brambling is similar in size and shape to a common chaffinch. Breeding-plumaged male bramblings are very distinctive, with a black head, dark upperparts, orange breast and white belly. Females and younger birds are less distinct, and more similar in appearance to some chaffinches. In all plumages, however, bramblings differs from chaffinches in a number of features. Brambling has a white rump whereas that of chaffinch is grey-green. the breast is orange, contrasting with a white belly on brambling, whereas on chaffinch the underparts of more uniformly coloured (pink or buff). Brambling's scapulars are orange, whereas chaffinch's are grey or grey-brown. The flanks are dark-spotted on brambling, plain on chaffinch. Bramblings lack the white outer tail feathers of chaffinch. \n\nAn additional difference for all plumages except breeding-plumaged males is the bill colour - yellow in brambling, dull pinkish in chaffinch (breeding-plumaged male bramblings have black bills, chaffinches in the corresponding plumage have grey bills).",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.678279",
         "longitude": "23.349654"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Черешарка",
     "latinName": "Coccothraustes coccothraustes",
     "descr": "The hawfinch has an overall length of 18 cm (7.1 in), with a wingspan that ranges from 29 to 33 cm (11 to 13 in). It weighs 46–70 g (1.6–2.5 oz) with the male being on average slightly heavier than the female. It is a robust bird with a thick neck, large round head and a wide, strong conical beak with a metallic appearance. It has short pinkish legs with a light hue and it has a short tail. It has brown eyes. The plumage of the female is slightly paler than that of the male. The overall colour is light brown, its head having an orange hue to it. Its eyes have a black circle around them, extending to its beak and surrounding it at its edge. Its throat is also black. The sides of its neck, as well as the back of its neck, are gray. The upper side of its wings are a deep black colour. The wings also have three stripes from approximately the middle till their sides: a white, a brown and a blue stripe.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.682005",
         "longitude": "23.327643"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Белогуша зонотрихия",
     "latinName": "Zonotrichia albicollis",
-    "descr": "The white-throated sparrow is a passerine bird of the American sparrow family Emberizidae. It measures 15 to 19 cm (5.9 to 7.5 in) in length with a wingspan of 23 cm (9.1 in). Typical weight is 22 to 32 g (0.78 to 1.13 oz), with an average of 26 g (0.92 oz). Among standard measurements, the wing chord is 6.3 to 7.9 cm (2.5 to 3.1 in), the tail is 6.8 to 7.7 cm (2.7 to 3.0 in), the bill is 1 to 1.2 cm (0.39 to 0.47 in) and the tarsus is 2.2 to 2.4 cm (0.87 to 0.94 in). \\n\\nThere are two adult plumage variations known as the tan-striped and white-striped forms. On the white-striped form the crown is black with a white central stripe. The supercilium is white as well. The auriculars are gray with the upper edge forming a black eye line. \\n\\nOn the tan form, the crown is dark brown with a tan central stripe. The supercilium is tan as well. The auriculars are gray/light brown with the upper edge forming a brown eye line. Both variations feature dark eyes, a white throat, yellow lores and gray bill. There is variation and some individuals may show dark lateral stripes of each side of the throat. \\n\\nThey almost always pair with the opposite color morph for breeding. The two color morphs occur in approximately equal numbers. Both male and female white-striped birds are more aggressive than tan-striped birds during the breeding season. \\n\\nThe breast has gray/tan streaks and the streaks continue down the flanks but the belly is generally light gray. The wings are rufous with two distinct white wing bars. Sexes are morphologically similar.",
+    "descr": "The white-throated sparrow is a passerine bird of the American sparrow family Emberizidae. It measures 15 to 19 cm (5.9 to 7.5 in) in length with a wingspan of 23 cm (9.1 in). Typical weight is 22 to 32 g (0.78 to 1.13 oz), with an average of 26 g (0.92 oz). Among standard measurements, the wing chord is 6.3 to 7.9 cm (2.5 to 3.1 in), the tail is 6.8 to 7.7 cm (2.7 to 3.0 in), the bill is 1 to 1.2 cm (0.39 to 0.47 in) and the tarsus is 2.2 to 2.4 cm (0.87 to 0.94 in). \n\nThere are two adult plumage variations known as the tan-striped and white-striped forms. On the white-striped form the crown is black with a white central stripe. The supercilium is white as well. The auriculars are gray with the upper edge forming a black eye line. \n\nOn the tan form, the crown is dark brown with a tan central stripe. The supercilium is tan as well. The auriculars are gray/light brown with the upper edge forming a brown eye line. Both variations feature dark eyes, a white throat, yellow lores and gray bill. There is variation and some individuals may show dark lateral stripes of each side of the throat. \n\nThey almost always pair with the opposite color morph for breeding. The two color morphs occur in approximately equal numbers. Both male and female white-striped birds are more aggressive than tan-striped birds during the breeding season. \n\nThe breast has gray/tan streaks and the streaks continue down the flanks but the belly is generally light gray. The wings are rufous with two distinct white wing bars. Sexes are morphologically similar.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.679892",
         "longitude": "23.318944"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Балтиморски трупиал",
     "latinName": "Icterus galbula",
     "descr": "This medium-sized passerine measures 17–22 cm (6.7–8.7 in) in length and spans 23–32 cm (9.1–12.6 in) across the wings. Their build is typical of icterids, as they have a sturdy body, a longish tail, fairly long legs and a thick, pointed bill. The body weight averages 33.8 g (1.19 oz), with a range of weights from 22.3 to 42 g (0.79 to 1.48 oz). The male oriole is slightly larger than the female, although the size dimorphism is minimal by icterid standards. Adults always have white bars on the wings. The adult male is orange on the underparts shoulder patch and rump, with some birds appearing a very deep flaming orange and others appearing yellowish-orange. All of the rest of the male's plumage is black. The adult female is yellow-brown on the upper parts with darker wings, and dull orange-yellow on the breast and belly. The juvenile oriole is similar-looking to the female, with males taking until the fall of their second year to reach adult plumage.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.681810",
         "longitude": "23.295723"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Гурлю млад",
     "latinName": "Cinclus cinclus juv",
-    "descr": "The white-throated dipper is about 18 centimetres (7.1 in) long, rotund and short tailed. The head of the adult (gularis and aquaticus) is brown, the back slate-grey mottled with black, looking black from a distance, and the wings and tail are brown. The throat and upper breast are white, followed by a band of warm chestnut which merges into black on the belly and flanks. The bill is almost black, the legs and irides brown. C. c. cinclus has a black belly band. \\n\\nThe young are greyish brown and have no chestnut band.",
+    "descr": "The white-throated dipper is about 18 centimetres (7.1 in) long, rotund and short tailed. The head of the adult (gularis and aquaticus) is brown, the back slate-grey mottled with black, looking black from a distance, and the wings and tail are brown. The throat and upper breast are white, followed by a band of warm chestnut which merges into black on the belly and flanks. The bill is almost black, the legs and irides brown. C. c. cinclus has a black belly band. \n\nThe young are greyish brown and have no chestnut band.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.687411",
         "longitude": "23.377685"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Гурлю",
     "latinName": "Cinclus cinclus",
-    "descr": "The white-throated dipper is about 18 centimetres (7.1 in) long, rotund and short tailed. The head of the adult (gularis and aquaticus) is brown, the back slate-grey mottled with black, looking black from a distance, and the wings and tail are brown. The throat and upper breast are white, followed by a band of warm chestnut which merges into black on the belly and flanks. The bill is almost black, the legs and irides brown. C. c. cinclus has a black belly band. \\n\\nThe young are greyish brown and have no chestnut band.",
+    "descr": "The white-throated dipper is about 18 centimetres (7.1 in) long, rotund and short tailed. The head of the adult (gularis and aquaticus) is brown, the back slate-grey mottled with black, looking black from a distance, and the wings and tail are brown. The throat and upper breast are white, followed by a band of warm chestnut which merges into black on the belly and flanks. The bill is almost black, the legs and irides brown. C. c. cinclus has a black belly band. \n\nThe young are greyish brown and have no chestnut band.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.701672",
         "longitude": "23.274922"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Обикновена копринарка",
     "latinName": "Bombycilla garrulus",
     "descr": "The Bohemian waxwing is a starling-sized bird 19–23 cm (7.5–9.1 in) in length with a 32–35.5 cm (12.6–14.0 in) wingspan, and an average weight of 55 g (1.9 oz). It is short-tailed, mainly brownish-grey, and has a conspicuous crest on its head. The male of the nominate subspecies has a black mask through the eye and a black throat. There is a white streak behind the bill and a white curve below the eye. The lower belly is a rich chestnut colour and there are cinnamon-coloured areas around the mask. The rump is grey and the tail ends in a bright yellow band with a broad black border above it. The wings are very distinctive; the flight feathers are black and the primaries have markings that produce a yellow stripe and white fishhooks on the closed wing. The adult's secondaries end in long red appendages with the sealing wax appearance that gives the bird its English name. The eyes are dark brown, the bill is mainly black, and the legs are dark grey or black. In flight, the waxwing's large flocks, long wings and short tail give some resemblance to the common starling, and its flight is similarly fast and direct. It clambers easily through bushes and trees but only shuffles on the ground.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.687469",
         "longitude": "23.337513"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Синьоопашка",
     "latinName": "Tarsiger cyanurus",
-    "descr": "The red-flanked bluetail (Tarsiger cyanurus), also known as the orange-flanked bush-robin, is a small passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher, Muscicapidae. It, and related species, are often called chats. \\n\\nIt is a migratory insectivorous species breeding in mixed coniferous forest with undergrowth in northern Asia and northeastern Europe, from Finland east across Siberia to Kamchatka and south to Japan. It winters mainly in southeastern Asia, in the Indian Subcontinent, the Himalayas, Taiwan, and northern Indochina. The breeding range is slowly expanding westwards through Finland (where up to 500 pairs now breeding), and it is a rare but increasing vagrant to western Europe, mainly to Great Britain. There have also been a few records in westernmost North America, mostly in western Alaska.",
+    "descr": "The red-flanked bluetail (Tarsiger cyanurus), also known as the orange-flanked bush-robin, is a small passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher, Muscicapidae. It, and related species, are often called chats. \n\nIt is a migratory insectivorous species breeding in mixed coniferous forest with undergrowth in northern Asia and northeastern Europe, from Finland east across Siberia to Kamchatka and south to Japan. It winters mainly in southeastern Asia, in the Indian Subcontinent, the Himalayas, Taiwan, and northern Indochina. The breeding range is slowly expanding westwards through Finland (where up to 500 pairs now breeding), and it is a rare but increasing vagrant to western Europe, mainly to Great Britain. There have also been a few records in westernmost North America, mostly in western Alaska.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.678915",
         "longitude": "23.337717"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Белогушка",
     "latinName": "Irania gutteralis",
     "descr": "This species is larger than the European robin, having a length of 16 centimetres (6.3 in) and a wingspan of 28 centimetres (11 in). The breeding male has lead-grey upperparts, a black face with a white throat and supercilium, and orange underparts. The tail is black, as is the strong bill. The male's song is a fast twittering given from a bush or in flight. The call of this species is a chis-it like pied wagtail. Females are plainer, mainly grey apart from a black tail, hints of orange on the flanks, and some white throat streaks. It is a migratory insectivorous species breeding in south west Asia from Turkey to Afghanistan and wintering in east Africa. This species is a very rare vagrant to Europe. It will also eat fruit during the autumn. It breeds in dry rocky slopes with some bushes, often at some altitude. The white-throated robin nests in a shrub, laying 4-5 eggs.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.669928",
         "longitude": "23.363527"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Сибирски славей",
     "latinName": "Luscinia calliope",
-    "descr": "The Siberian rubythroat (Luscinia calliope) is a small passerine bird that was formerly classed as a member of the thrush family, Turdidae, but is now more generally considered to be an Old World flycatcher of the family Muscicapidae. It, and similar small European species, are often called chats. \\n\\nIt is a migratory insectivorous species breeding in mixed coniferous forest with undergrowth in Siberia. It nests near the ground. It winters in Thailand, India and Indonesia. It is an extremely rare vagrant to Western Europe, having occurred on a very few occasions as far west as Britain. It is also an extremely rare vagrant to the Aleutian Islands, most notably on Attu Island. \\n\\nThe Siberian rubythroat is slightly larger than the European robin. It is plain brown above except for the distinctive black tail with red side patches. It has a strong white supercilium. \\n\\nThe male has a red throat edged with a narrow black and then a broad white border. It has a strong white supercilium. Females lack the brightly coloured throat and borders. \\n\\nThe male has a song like a harder version of the garden warbler.",
+    "descr": "The Siberian rubythroat (Luscinia calliope) is a small passerine bird that was formerly classed as a member of the thrush family, Turdidae, but is now more generally considered to be an Old World flycatcher of the family Muscicapidae. It, and similar small European species, are often called chats. \n\nIt is a migratory insectivorous species breeding in mixed coniferous forest with undergrowth in Siberia. It nests near the ground. It winters in Thailand, India and Indonesia. It is an extremely rare vagrant to Western Europe, having occurred on a very few occasions as far west as Britain. It is also an extremely rare vagrant to the Aleutian Islands, most notably on Attu Island. \n\nThe Siberian rubythroat is slightly larger than the European robin. It is plain brown above except for the distinctive black tail with red side patches. It has a strong white supercilium. \n\nThe male has a red throat edged with a narrow black and then a broad white border. It has a strong white supercilium. Females lack the brightly coloured throat and borders. \n\nThe male has a song like a harder version of the garden warbler.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.683400",
         "longitude": "23.353543"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Сива врана",
     "latinName": "Corvus cornix",
-    "descr": "Except for the head, throat, wings, tail, and thigh feathers, which are black and mostly glossy, the plumage is ash-grey, the dark shafts giving it a streaky appearance. The bill and legs are black; the iris dark brown. Only one moult occurs, in autumn, as in other crow species. The male is the larger bird, otherwise the sexes are alike. Their flight is slow and heavy and usually straight. Their length varies from 48 to 52 cm (19 to 20 in). When first hatched, the young are much blacker than the parents. Juveniles have duller plumage with bluish or greyish eyes and initially a red mouth. Wingspan is 98 cm (39 in) and weight is on average 510 g. \\n\\nThe hooded crow, with its contrasted greys and blacks, cannot be confused with either the carrion crow or rook, but the About this sound kraa (help·info) call notes of the two are almost indistinguishable.",
+    "descr": "Except for the head, throat, wings, tail, and thigh feathers, which are black and mostly glossy, the plumage is ash-grey, the dark shafts giving it a streaky appearance. The bill and legs are black; the iris dark brown. Only one moult occurs, in autumn, as in other crow species. The male is the larger bird, otherwise the sexes are alike. Their flight is slow and heavy and usually straight. Their length varies from 48 to 52 cm (19 to 20 in). When first hatched, the young are much blacker than the parents. Juveniles have duller plumage with bluish or greyish eyes and initially a red mouth. Wingspan is 98 cm (39 in) and weight is on average 510 g. \n\nThe hooded crow, with its contrasted greys and blacks, cannot be confused with either the carrion crow or rook, but the About this sound kraa (help·info) call notes of the two are almost indistinguishable.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.678279",
         "longitude": "23.349654"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Орехче",
     "latinName": "Troglodytes troglodytes",
-    "descr": "The 9- to 10.5-cm-long and 6-10 g wren is rufous brown above, greyer beneath, barred with darker brown and grey, even on wings and tail. The bill is dark brown, the legs pale brown. Young birds are less distinctly barred. \\n\\nThe plumage is subject to considerable variation, and where populations have been isolated, the variation has become fixed in one minor form or another. There are around 27 subspecies of this taxonomically complex bird. The disputed subspecies orii, the Daito winter wren, became extinct around 1940 – if it is indeed a valid taxon and not merely based on an anomaly. \\n\\nThus in Scotland, in addition to the typical bird T. t. indigenus, there are three distinct insular subspecies: one, T. t. hirtensis, is confined to the island of St Kilda; another, T. t. zetlandicus, to Shetland; and the third, T. t. fridariensis, to Fair Isle. The St Kilda wren is greyer above, whiter beneath, with more abundant bars on the back; the Shetland wren and Fair Isle wren are darker.",
+    "descr": "The 9- to 10.5-cm-long and 6-10 g wren is rufous brown above, greyer beneath, barred with darker brown and grey, even on wings and tail. The bill is dark brown, the legs pale brown. Young birds are less distinctly barred. \n\nThe plumage is subject to considerable variation, and where populations have been isolated, the variation has become fixed in one minor form or another. There are around 27 subspecies of this taxonomically complex bird. The disputed subspecies orii, the Daito winter wren, became extinct around 1940 – if it is indeed a valid taxon and not merely based on an anomaly. \n\nThus in Scotland, in addition to the typical bird T. t. indigenus, there are three distinct insular subspecies: one, T. t. hirtensis, is confined to the island of St Kilda; another, T. t. zetlandicus, to Shetland; and the third, T. t. fridariensis, to Fair Isle. The St Kilda wren is greyer above, whiter beneath, with more abundant bars on the back; the Shetland wren and Fair Isle wren are darker.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.682005",
         "longitude": "23.327643"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Гарван",
     "latinName": "Corvus corax",
-    "descr": "A mature common raven ranges between 54 and 67 cm (21 in. and 26 in.) long, with a wingspan of 115 to 130 cm (45-51 in.). Recorded weights range from 0.69 to 2 kg (1.5 to 4.4 lb), thus making the common raven one of the heaviest passerines. Birds from colder regions such as the Himalayas and Greenland are generally larger with slightly larger bills, while those from warmer regions are smaller with proportionally smaller bills. Representative of the size variation in the species, ravens from California weighed an average of 784 g (1.728 lb), those from Alaska weighed an average of 1,135 g (2.502 lb) and those from Nova Scotia weighed an average of 1,230 g (2.71 lb). The bill is large and slightly curved, with a culmen length of 5.7 to 8.5 cm (2.2 to 3.3 in), easily one of the largest bills amongst passerines (perhaps only the thick-billed raven has a noticeably larger bill). It has a longish, strongly graduated tail, at 20 to 26.3 cm (7.9 to 10.4 in), and mostly black iridescent plumage, and a dark brown iris. The throat feathers are elongated and pointed and the bases of the neck feathers are pale brownish-grey. The legs and feet are good-sized, with a tarsus length of 6 to 7.2 cm (2.4 to 2.8 in). Juvenile plumage is similar but duller with a blue-grey iris. \\n\\nApart from its greater size, the common raven differs from its cousins, the crows, by having a larger and heavier black beak, shaggy feathers around the throat and above the beak, and a wedge-shaped tail. Flying ravens are distinguished from crows by their tail shape, larger wing area, and more stable soaring style, which generally involves less wing flapping. Despite their bulk, ravens are easily as agile in flight as their smaller cousins. In flight the feathers produce a creaking sound that has been likened to the rustle of silk. The voice of ravens is also quite distinct, its usual call being a deep croak of a much more sonorous quality than a crow's call. In North America, the Chihuahuan raven (C. cryptoleucus) is fairly similar to the relatively small common ravens of the American southwest and is best distinguished by the still relatively smaller size of its bill, beard and body and relatively longer tail. All-black carrion crow (C. corone) in Europe may suggest a raven due to their largish bill but are still distinctly smaller and have the wing and tail shapes typical of crows.",
+    "descr": "A mature common raven ranges between 54 and 67 cm (21 in. and 26 in.) long, with a wingspan of 115 to 130 cm (45-51 in.). Recorded weights range from 0.69 to 2 kg (1.5 to 4.4 lb), thus making the common raven one of the heaviest passerines. Birds from colder regions such as the Himalayas and Greenland are generally larger with slightly larger bills, while those from warmer regions are smaller with proportionally smaller bills. Representative of the size variation in the species, ravens from California weighed an average of 784 g (1.728 lb), those from Alaska weighed an average of 1,135 g (2.502 lb) and those from Nova Scotia weighed an average of 1,230 g (2.71 lb). The bill is large and slightly curved, with a culmen length of 5.7 to 8.5 cm (2.2 to 3.3 in), easily one of the largest bills amongst passerines (perhaps only the thick-billed raven has a noticeably larger bill). It has a longish, strongly graduated tail, at 20 to 26.3 cm (7.9 to 10.4 in), and mostly black iridescent plumage, and a dark brown iris. The throat feathers are elongated and pointed and the bases of the neck feathers are pale brownish-grey. The legs and feet are good-sized, with a tarsus length of 6 to 7.2 cm (2.4 to 2.8 in). Juvenile plumage is similar but duller with a blue-grey iris. \n\nApart from its greater size, the common raven differs from its cousins, the crows, by having a larger and heavier black beak, shaggy feathers around the throat and above the beak, and a wedge-shaped tail. Flying ravens are distinguished from crows by their tail shape, larger wing area, and more stable soaring style, which generally involves less wing flapping. Despite their bulk, ravens are easily as agile in flight as their smaller cousins. In flight the feathers produce a creaking sound that has been likened to the rustle of silk. The voice of ravens is also quite distinct, its usual call being a deep croak of a much more sonorous quality than a crow's call. In North America, the Chihuahuan raven (C. cryptoleucus) is fairly similar to the relatively small common ravens of the American southwest and is best distinguished by the still relatively smaller size of its bill, beard and body and relatively longer tail. All-black carrion crow (C. corone) in Europe may suggest a raven due to their largish bill but are still distinctly smaller and have the wing and tail shapes typical of crows.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.679892",
         "longitude": "23.318944"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Авлига",
     "latinName": "Oriolus oriolus",
-    "descr": "The male is striking in the typical oriole black and yellow plumage, but the female is a drabber green bird. Orioles are shy, and even the male is remarkably difficult to see in the dappled yellow and green leaves of the canopy. In flight they look somewhat like a thrush, strong and direct with some shallow dips over longer distances. The New World orioles are similar in appearance to the Oriolidae, but are icterids unrelated to the Old World birds. \\n\\nThe breeding range of this species spans from Portugal, Spain and France across the United Kingdom and Scandinavia to Poland, Russia, the Balkans, Turkey and West Asia to the Caucasus up to Mongolia and China. They winter in central and southern Africa. They generally migrate during the night, but may travel during the day in the spring migration. During the fall migration they migrate via the Eastern Mediterranean where they feed on fruit; they are often considered a pest in this region because of this.",
+    "descr": "The male is striking in the typical oriole black and yellow plumage, but the female is a drabber green bird. Orioles are shy, and even the male is remarkably difficult to see in the dappled yellow and green leaves of the canopy. In flight they look somewhat like a thrush, strong and direct with some shallow dips over longer distances. The New World orioles are similar in appearance to the Oriolidae, but are icterids unrelated to the Old World birds. \n\nThe breeding range of this species spans from Portugal, Spain and France across the United Kingdom and Scandinavia to Poland, Russia, the Balkans, Turkey and West Asia to the Caucasus up to Mongolia and China. They winter in central and southern Africa. They generally migrate during the night, but may travel during the day in the spring migration. During the fall migration they migrate via the Eastern Mediterranean where they feed on fruit; they are often considered a pest in this region because of this.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.681810",
         "longitude": "23.295723"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Черен синигер",
     "latinName": "Periparus ater",
-    "descr": "The coal tit is 10–11.5 cm in length, and has a distinctive large white nape spot on its black head. The head, throat and neck of the adult are glossy blue-black, setting off the off-white sides of the face (tinged grey to yellow depending on subspecies) and the brilliant white nape; the white tips of the wing coverts appear as two wingbars. The underparts are whitish shading through buff to rufous on the flanks. The bill is black, the legs lead-coloured, and irides dark brown. \\n\\nThe young birds are duller than the adults, lacking gloss on the black head, and with the white of nape and cheeks tinged with yellow. \\n\\nWhile searching for food, coal tit flocks keep contact with incessant short dee or see-see calls. The species' song – if song it can be called – is a strident if-he, if-he, if-he, heard most frequently from January to June, but also in autumn. One variant of this song ends with a sharp ichi. North African birds also have a currr call similar to that of the European crested tit (Lophophanes cristatus) which is not found in Africa.",
+    "descr": "The coal tit is 10–11.5 cm in length, and has a distinctive large white nape spot on its black head. The head, throat and neck of the adult are glossy blue-black, setting off the off-white sides of the face (tinged grey to yellow depending on subspecies) and the brilliant white nape; the white tips of the wing coverts appear as two wingbars. The underparts are whitish shading through buff to rufous on the flanks. The bill is black, the legs lead-coloured, and irides dark brown. \n\nThe young birds are duller than the adults, lacking gloss on the black head, and with the white of nape and cheeks tinged with yellow. \n\nWhile searching for food, coal tit flocks keep contact with incessant short dee or see-see calls. The species' song – if song it can be called – is a strident if-he, if-he, if-he, heard most frequently from January to June, but also in autumn. One variant of this song ends with a sharp ichi. North African birds also have a currr call similar to that of the European crested tit (Lophophanes cristatus) which is not found in Africa.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.687411",
         "longitude": "23.377685"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Голям синигер",
     "latinName": "Parus major",
-    "descr": "he great tit is large for a tit at 12.5 to 14.0 cm (4.9–5.5 in) in length, and has a distinctive appearance that makes it easy to recognise. The nominate race P. major major has a bluish-black crown, black neck, throat, bib and head, and white cheeks and ear coverts. The breast is bright lemon-yellow and there is a broad black mid-line stripe running from the bib to vent. There is a dull white spot on the neck turning to greenish yellow on the upper nape. The rest of the nape and back are green tinged with olive. The wing-coverts are green, the rest of the wing is bluish-grey with a white-wing-bar. The tail is bluish grey with white outer tips. The plumage of the female is similar to that of the male except that the colours are overall duller; the bib is less intensely black, as is the line running down the belly, which is also narrower and sometimes broken. Young birds are like the female, except that they have dull olive-brown napes and necks, greyish rumps, and greyer tails, with less defined white tips. \\n\\nThere is some variation in the subspecies. P. m. newtoni is like the nominate race but has a slightly longer bill, the mantle is slightly deeper green, there is less white on the tail tips, and the ventral mid-line stripe is broader on the belly. P. m. corsus also resembles the nominate form but has duller upperparts, less white in the tail and less yellow in the nape. P. m. mallorcae is like the nominate subspecies, but has a larger bill, greyer-blue upperparts and slightly paler underparts. P. m. ecki is like P. m. mallorcae except with bluer upperparts and paler underparts. P. m. excelsus is similar to the nominate race but has much brighter green upperparts, bright yellow underparts and no (or very little) white on the tail. P. m. aphrodite has darker, more olive-grey upperparts, and the underparts are more yellow to pale cream. P. m. niethammeri is similar to P. m. aphrodite but the upperparts are duller and less green, and the underparts are pale yellow. P. m. terrasanctae resembles the previous two subspecies but has slightly paler upperparts. P. m. blandfordi is like the nominate but with a greyer mantle and scapulars and pale yellow underparts, and P. m. karelini is intermediate between the nominate and P. m. blandfordi, and lacks white on the tail. The plumage of P. m. bokharensis is much greyer, pale creamy white to washed out grey underparts, a larger white cheep patch, a grey tail, wings, back and nape. It is also slightly smaller, with a smaller bill but longer tail. The situation is similar for the two related subspecies in the Turkestan tit group. P. m. turkestanicus is like P. m. bokharensis but with a larger bill and darker upperparts. P. m. ferghanensis is like P. m. bokharensis but with a smaller bill, darker grey on the flanks and a more yellow wash on the juvenile birds.",
+    "descr": "he great tit is large for a tit at 12.5 to 14.0 cm (4.9–5.5 in) in length, and has a distinctive appearance that makes it easy to recognise. The nominate race P. major major has a bluish-black crown, black neck, throat, bib and head, and white cheeks and ear coverts. The breast is bright lemon-yellow and there is a broad black mid-line stripe running from the bib to vent. There is a dull white spot on the neck turning to greenish yellow on the upper nape. The rest of the nape and back are green tinged with olive. The wing-coverts are green, the rest of the wing is bluish-grey with a white-wing-bar. The tail is bluish grey with white outer tips. The plumage of the female is similar to that of the male except that the colours are overall duller; the bib is less intensely black, as is the line running down the belly, which is also narrower and sometimes broken. Young birds are like the female, except that they have dull olive-brown napes and necks, greyish rumps, and greyer tails, with less defined white tips. \n\nThere is some variation in the subspecies. P. m. newtoni is like the nominate race but has a slightly longer bill, the mantle is slightly deeper green, there is less white on the tail tips, and the ventral mid-line stripe is broader on the belly. P. m. corsus also resembles the nominate form but has duller upperparts, less white in the tail and less yellow in the nape. P. m. mallorcae is like the nominate subspecies, but has a larger bill, greyer-blue upperparts and slightly paler underparts. P. m. ecki is like P. m. mallorcae except with bluer upperparts and paler underparts. P. m. excelsus is similar to the nominate race but has much brighter green upperparts, bright yellow underparts and no (or very little) white on the tail. P. m. aphrodite has darker, more olive-grey upperparts, and the underparts are more yellow to pale cream. P. m. niethammeri is similar to P. m. aphrodite but the upperparts are duller and less green, and the underparts are pale yellow. P. m. terrasanctae resembles the previous two subspecies but has slightly paler upperparts. P. m. blandfordi is like the nominate but with a greyer mantle and scapulars and pale yellow underparts, and P. m. karelini is intermediate between the nominate and P. m. blandfordi, and lacks white on the tail. The plumage of P. m. bokharensis is much greyer, pale creamy white to washed out grey underparts, a larger white cheep patch, a grey tail, wings, back and nape. It is also slightly smaller, with a smaller bill but longer tail. The situation is similar for the two related subspecies in the Turkestan tit group. P. m. turkestanicus is like P. m. bokharensis but with a larger bill and darker upperparts. P. m. ferghanensis is like P. m. bokharensis but with a smaller bill, darker grey on the flanks and a more yellow wash on the juvenile birds.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.701672",
         "longitude": "23.274922"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Източна скална зидарка",
     "latinName": "Sitta tephronota",
     "descr": "The Persian nuthatch or the eastern rock-nuthatch (Sitta tephronota) is a species of bird in the Sittidae family. It is found in Afghanistan, Armenia, Azerbaijan, Georgia, India, Iran, Iraq, Kazakhstan, Pakistan, Russia, Tajikistan, Turkey, and Turkmenistan.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.687469",
         "longitude": "23.337513"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Скалолазка",
     "latinName": "Tichodroma muraria",
     "descr": "The wallcreeper (Tichodroma muraria) is a small passerine bird found throughout the high mountains of Eurasia. It is the only member of the genus Tichodroma. The wallcreeper is a 15.5–17 centimetres (6.1–6.7 in) long bird, with a mass of 17–19 grams (0.60–0.67 oz). Its plumage is primarily blue-grey, with darker flight and tail feathers. Its most striking plumage feature, though, are its extraordinary crimson wings. Largely hidden when the wings are folded, this bright coloring covers most of the covert feathers, and the basal half of the primaries and secondaries.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.678915",
         "longitude": "23.337717"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Лазурен синигер",
     "latinName": "Cyanistes cyanus",
-    "descr": "The azure tit (Cyanistes cyanus) is a passerine bird in the tit family Paridae. It is a widespread and common resident breeder throughout Russia and central Asia. \\n\\nIt is found in temperate and subarctic deciduous or mixed woodlands, scrub and marshes. It is resident, and most birds do not migrate. It nests in a tree hole, laying about 10 eggs. The bird is a close sitter, hissing and biting when disturbed. Its food is insects and seeds. \\n\\nThis 12–13 cm bird is unmistakable. The head, tail corners, wing bars and underparts are white. There is a dark line through the eye, and the upperparts are blue. \\n\\nThis is the eastern counterpart of the common Eurasian blue tit. It will hybridise with that species, but the offspring usually show a blue crown, rather than the white of azure tit. The calls are similar to blue tit, calling dee, dee, dee or a scolding churr. The song is a tsi-tsi-tshurr-tsi-tsi-tshurr, which has been described as intermediate between blue tit and crested tit.",
+    "descr": "The azure tit (Cyanistes cyanus) is a passerine bird in the tit family Paridae. It is a widespread and common resident breeder throughout Russia and central Asia. \n\nIt is found in temperate and subarctic deciduous or mixed woodlands, scrub and marshes. It is resident, and most birds do not migrate. It nests in a tree hole, laying about 10 eggs. The bird is a close sitter, hissing and biting when disturbed. Its food is insects and seeds. \n\nThis 12–13 cm bird is unmistakable. The head, tail corners, wing bars and underparts are white. There is a dark line through the eye, and the upperparts are blue. \n\nThis is the eastern counterpart of the common Eurasian blue tit. It will hybridise with that species, but the offspring usually show a blue crown, rather than the white of azure tit. The calls are similar to blue tit, calling dee, dee, dee or a scolding churr. The song is a tsi-tsi-tshurr-tsi-tsi-tshurr, which has been described as intermediate between blue tit and crested tit.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.669928",
         "longitude": "23.363527"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Африкански син синигер",
     "latinName": "Cyanistes teneriffae",
     "descr": "The African blue tit (Cyanistes teneriffae) is a species of bird in the Paridae family. It is found in northern Africa and the Canary Islands. Its natural habitat is temperate forests. This species and the Eurasian blue tit were formerly considered conspecific. The Canary Islands subspecies has a black cap, and the African form has a blue back. Research is underway to split these populations into distinct species, with a peculiar leapfrog distribution.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.683400",
         "longitude": "23.353543"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Син синигер",
     "latinName": "Cyanistes caeruleus",
     "descr": "The Eurasian blue tit is usually 12 centimetres (4.7 in) long with a wingspan of 18 centimetres (7.1 in) for all genders, and weighs about 11 grams (0.39 oz).[8] A typical Eurasian blue tit has an azure blue crown and dark blue line passing through the eye, and encircling the white cheeks to the chin, giving the bird a very distinctive appearance. The forehead and a bar on the wing are white. The nape, wings and tail are blue and the back is yellowish green. The underparts is mostly sulphur-yellow with a dark line down the abdomen - the yellowness is indicative of the number of yellowy-green caterpillars eaten, due to high levels of carotene pigments in the diet.[9] The bill is black, the legs bluish grey, and the irides dark brown. The sexes are similar, but under ultraviolet light, males have a brighter blue crown.[10] Young blue tits are noticeably more yellow.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.678279",
         "longitude": "23.349654"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Алжирска зидарка",
     "latinName": "Sitta ledanti",
-    "descr": "The Algerian nuthatch (Sitta ledanti) is a small passerine bird which is the only bird species endemic to Algeria, where it is also the only nuthatch. It was first discovered on October 5, 1975 at the Djebel Babor mountain in the Petite Kabylie range in northern Algeria, by a team led by a young Belgian agronomist Jean-Pierre Ledant. The Algerian nuthatch is a resident bird of four areas of mountain forest in northeast Algeria. Its range is limited by the availability of woodland, and it occurs only above 1,000m, with the population density increasing with altitude. It feeds on insects and seeds, and seeds are also stored in food caches. \\n\\nIt has the ability, like other nuthatches, to climb down trees, unlike species such as woodpeckers which can only go upwards, but does not flycatch. \\n\\nThe Algerian nuthatch is 13.5 cm long, slightly smaller than the Eurasian nuthatch, and has the typical nuthatch big head, short tail and powerful bill and feet. It is blue-grey above, and buff below. The male has a black crown and eyestripe separated by a white supercilium. The female has a grey crown and eyestripe. Young birds are duller versions of the adults. \\n\\nThis territorial species nests in holes, usually in old pines, either self-excavated or old woodpecker nests. The Algerian nuthatch has a kna call and a fluted quair-di, quair-di, quair-di, quair-di, quair-di, song. This bird is officially endangered as it is restricted to just four breeding sites. The population is less than 2,000 pairs; the main threats are fire, grazing and tree-felling, which destroy the habitat.",
+    "descr": "The Algerian nuthatch (Sitta ledanti) is a small passerine bird which is the only bird species endemic to Algeria, where it is also the only nuthatch. It was first discovered on October 5, 1975 at the Djebel Babor mountain in the Petite Kabylie range in northern Algeria, by a team led by a young Belgian agronomist Jean-Pierre Ledant. The Algerian nuthatch is a resident bird of four areas of mountain forest in northeast Algeria. Its range is limited by the availability of woodland, and it occurs only above 1,000m, with the population density increasing with altitude. It feeds on insects and seeds, and seeds are also stored in food caches. \n\nIt has the ability, like other nuthatches, to climb down trees, unlike species such as woodpeckers which can only go upwards, but does not flycatch. \n\nThe Algerian nuthatch is 13.5 cm long, slightly smaller than the Eurasian nuthatch, and has the typical nuthatch big head, short tail and powerful bill and feet. It is blue-grey above, and buff below. The male has a black crown and eyestripe separated by a white supercilium. The female has a grey crown and eyestripe. Young birds are duller versions of the adults. \n\nThis territorial species nests in holes, usually in old pines, either self-excavated or old woodpecker nests. The Algerian nuthatch has a kna call and a fluted quair-di, quair-di, quair-di, quair-di, quair-di, song. This bird is officially endangered as it is restricted to just four breeding sites. The population is less than 2,000 pairs; the main threats are fire, grazing and tree-felling, which destroy the habitat.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.682005",
         "longitude": "23.327643"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Горска зидарка",
     "latinName": "Sitta europaea",
     "descr": "The adult male of the nominate subspecies, S. e. europaea is 14 cm (5.5 in) long with a 22.5–27 cm (8.9–10.6 in) wingspan. It weighs 17–28 g (0.6–1 oz). It has blue-grey upperparts, a black eye-stripe and whitish throat and underparts. The flanks and lower belly are orange-red, mottled with white on the undertail. The stout bill is dark grey with a paler area on the base of the lower mandible, the iris is dark brown and the legs and feet are pale brown or greyish. Most other members of the S. e. europaea group differ only in detail from the nominate form, often with respect to the hue of the underparts, but S. e. arctica is quite distinctive. It is large, pale, has a white forehead and a reduced eye-stripe, and it has more white in the tail and wings than any other subspecies. Nuthatches move on trees with short leaps, and do not use their tails for support. In flight, they have a characteristic appearance, with a pointed head, round wings and a short, square tail. Their flight is fast, with wings closed between beats, and is usually of short duration.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.679892",
         "longitude": "23.318944"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Червеноклюна гарга",
     "latinName": "Pyrrhocorax pyrrhocorax",
-    "descr": "The adult of the nominate subspecies of the red-billed chough, P. p. pyrrhocorax, is 39–40 centimetres (15–16 in) in length, has a 73–90 centimetres (29–35 in) wingspan, and weighs an average 310 grammes (10.9 oz). Its plumage is velvet-black, green-glossed on the body, and it has a long curved red bill and red legs. The sexes are similar (although adults can be sexed in the hand using a formula involving tarsus length and bill width) but the juvenile has an orange bill and pink legs until its first autumn, and less glossy plumage. \\n\\nThe red-billed chough is unlikely to be confused with any other species of bird. Although the jackdaw and Alpine chough share its range, the jackdaw is smaller and has unglossed grey plumage, and the Alpine chough has a short yellow bill. Even in flight, the two choughs can be distinguished by Alpine's less rectangular wings, and longer, less square-ended tail. \\n\\nThe red-billed chough's loud, ringing chee-ow call is clearer and louder than the similar vocalisation of the jackdaw, and always very different from that of its yellow-billed congener, which has rippling preep and whistled sweeeooo calls. Small subspecies of the red-billed chough have higher frequency calls than larger races, as predicted by the inverse relationship between body size and frequency.",
+    "descr": "The adult of the nominate subspecies of the red-billed chough, P. p. pyrrhocorax, is 39–40 centimetres (15–16 in) in length, has a 73–90 centimetres (29–35 in) wingspan, and weighs an average 310 grammes (10.9 oz). Its plumage is velvet-black, green-glossed on the body, and it has a long curved red bill and red legs. The sexes are similar (although adults can be sexed in the hand using a formula involving tarsus length and bill width) but the juvenile has an orange bill and pink legs until its first autumn, and less glossy plumage. \n\nThe red-billed chough is unlikely to be confused with any other species of bird. Although the jackdaw and Alpine chough share its range, the jackdaw is smaller and has unglossed grey plumage, and the Alpine chough has a short yellow bill. Even in flight, the two choughs can be distinguished by Alpine's less rectangular wings, and longer, less square-ended tail. \n\nThe red-billed chough's loud, ringing chee-ow call is clearer and louder than the similar vocalisation of the jackdaw, and always very different from that of its yellow-billed congener, which has rippling preep and whistled sweeeooo calls. Small subspecies of the red-billed chough have higher frequency calls than larger races, as predicted by the inverse relationship between body size and frequency.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.681810",
         "longitude": "23.295723"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Чавка",
     "latinName": "Corvus monedula",
     "descr": "Measuring 34–39 centimetres (13–15 in) in length, the western jackdaw is the second smallest member of the genus Corvus. Most of the plumage is a shiny black, with a purple (in subspecies monedula and spermologus) or blue (in subspecies cirtensis and soemmerringii) sheen on the crown, forehead, and secondaries, and a green-blue sheen on the throat, primaries, and tail. The cheeks, nape and neck are light grey to greyish-silver, and the underparts are slate-grey. The legs are black, as is the short stout bill, the length of which is about 75% of the length of the rest of the head. There are rictal bristles covering around 40% of the upper mandible and 25% of the lower mandible. The irises of adults are greyish or silvery white while those of juveniles are light blue, becoming brownish before whitening at around one year of age. The sexes look alike, though the head and neck plumage of male birds fades more with age and wear, particularly just before moulting. Western jackdaws undergo a complete moult from June to September in the western parts of their range, and a month later in the east. The purplish sheen of the cap is most prominent just after moulting.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.687411",
         "longitude": "23.377685"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Сойка",
     "latinName": "Garrulus glandarius",
-    "descr": "The Eurasian jay (Garrulus glandarius) is a species of bird occurring over a vast region from Western Europe and north-west Africa to the Indian Subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across its vast range, several very distinct racial forms have evolved to look very different from each other, especially when forms at the extremes of its range are compared. The bird is called jay, without any epithets, by English speakers in Great Britain and Ireland. It is the original 'jay' after which all others are named. \\n\\nIts usual call is the alarm call which is a harsh, rasping screech and is used upon sighting various predatory animals, but the jay is well known for its mimicry, often sounding so like a different species that it is virtually impossible to distinguish its true identity unless the jay is seen. It will even imitate the sound of the bird it is attacking, such as a tawny owl, which it does mercilessly if attacking during the day. However, the jay is a potential prey item for owls at night and other birds of prey such as goshawks and peregrines during the day.",
+    "descr": "The Eurasian jay (Garrulus glandarius) is a species of bird occurring over a vast region from Western Europe and north-west Africa to the Indian Subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across its vast range, several very distinct racial forms have evolved to look very different from each other, especially when forms at the extremes of its range are compared. The bird is called jay, without any epithets, by English speakers in Great Britain and Ireland. It is the original 'jay' after which all others are named. \n\nIts usual call is the alarm call which is a harsh, rasping screech and is used upon sighting various predatory animals, but the jay is well known for its mimicry, often sounding so like a different species that it is virtually impossible to distinguish its true identity unless the jay is seen. It will even imitate the sound of the bird it is attacking, such as a tawny owl, which it does mercilessly if attacking during the day. However, the jay is a potential prey item for owls at night and other birds of prey such as goshawks and peregrines during the day.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.701672",
         "longitude": "23.274922"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Сибирска сойка",
     "latinName": "Perisoreus infaustus",
     "descr": "The Siberian jay (Perisoreus infaustus) is a jay found in north Eurasia. The species has a wide range (estimated global Extent of Occurrence 10,000,000 km²) and a large global population (estimated 680,000-1,400,000 in Europe). It is one of three members of the genus Perisoreus, the others being the Sichuan jay, P. internigrans, restricted to the mountains of eastern Tibet and northwestern Sichuan, and the gray jay, P. canadensis, restricted to the boreal forest and western montane regions of North America. All three species store food and live year-round on permanent territories in coniferous forests. The Siberian Jay is known to wilderness travelers as a very inquisitive and fearless species, which can be seen near camps and fires and even take food if such is left nearby.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.687469",
         "longitude": "23.337513"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Синя сврака",
     "latinName": "Cyanopica cyanus",
     "descr": "The azure-winged magpie (Cyanopica cyanus) is a bird in the crow family. It is 31–35 cm long and similar in overall shape to the Eurasian magpie (Pica pica) but is more slender with proportionately smaller legs and bill. It belongs to the genus Cyanopica. It has a glossy black top to the head and a white throat. The underparts and the back are a light grey-fawn in colour with the wings and the feathers of the long (16–20 cm) tail an azure blue. It inhabits various types of coniferous (mainly pine) and broadleaf forest, including parks and gardens in the eastern populations.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.678915",
         "longitude": "23.337717"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Сврака",
     "latinName": "Pica pica",
-    "descr": "The adult male of the nominate subspecies, P. p. pica, is 44–46 cm (17–18 in) in length, of which more than half is the tail. The wingspan is 52–62 cm (20–24 in). The head, neck and breast are glossy black with a metallic green and violet sheen; the belly and scapulars (shoulder feathers) are pure white; the wings are black glossed with green or purple, and the primaries have white inner webs, conspicuous when the wing is open. The graduated tail is black, glossed with green and reddish purple. The legs and bill are black; the iris is dark brown.[18] The plumage of the sexes is similar but females are slightly smaller. Males of the nominate subspecies weigh 210–272 g (7.4–9.6 oz) while females weigh 182–214 g (6.4–7.5 oz). The young resemble the adults, but are at first without much of the gloss on the sooty plumage. \\n\\nThe subspecies differ in their size, the amount of white on their plumage and the colour of the gloss on their black feathers. The northwest African race P. p. mauritanica differs from the nominate subspecies in having a patch of blue bare skin behind the eye, no white patch on the rump and a longer tail. The southwest Arabian race P. p. asirensis differs in having more black in the plumage with a narrower white scapular patch, no white rump and smaller white areas on the primaries. The Asian race P. p. bactriana has more extensive white on the primaries and a prominent white rump. \\n\\nAdults undergo an annual complete moult after breeding. The primary flight feathers are replaced over a period of three months. Juvenile birds undergo a partial moult beginning about one month later than the adult birds in which their body feathers are replaced but not those of the wings or the tail.",
+    "descr": "The adult male of the nominate subspecies, P. p. pica, is 44–46 cm (17–18 in) in length, of which more than half is the tail. The wingspan is 52–62 cm (20–24 in). The head, neck and breast are glossy black with a metallic green and violet sheen; the belly and scapulars (shoulder feathers) are pure white; the wings are black glossed with green or purple, and the primaries have white inner webs, conspicuous when the wing is open. The graduated tail is black, glossed with green and reddish purple. The legs and bill are black; the iris is dark brown.[18] The plumage of the sexes is similar but females are slightly smaller. Males of the nominate subspecies weigh 210–272 g (7.4–9.6 oz) while females weigh 182–214 g (6.4–7.5 oz). The young resemble the adults, but are at first without much of the gloss on the sooty plumage. \n\nThe subspecies differ in their size, the amount of white on their plumage and the colour of the gloss on their black feathers. The northwest African race P. p. mauritanica differs from the nominate subspecies in having a patch of blue bare skin behind the eye, no white patch on the rump and a longer tail. The southwest Arabian race P. p. asirensis differs in having more black in the plumage with a narrower white scapular patch, no white rump and smaller white areas on the primaries. The Asian race P. p. bactriana has more extensive white on the primaries and a prominent white rump. \n\nAdults undergo an annual complete moult after breeding. The primary flight feathers are replaced over a period of three months. Juvenile birds undergo a partial moult beginning about one month later than the adult birds in which their body feathers are replaced but not those of the wings or the tail.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.669928",
         "longitude": "23.363527"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }, {
     "name": "Мадейранско кралче",
     "latinName": "Regulus madeirensis",
-    "descr": "The Madeira firecrest is a small plump bird, of 9–10 cm (3.5–3.9 in) length and weighing about 5 g (0.18 oz). It has bright olive-green upperparts with a bronze-coloured patch on each shoulder, and whitish underparts washed with brownish grey on the breast and flanks. It has two white wingbars, a tiny black bill and brownish-black legs. The head pattern is striking, with a black eye stripe, white supercilium and a crest which is yellow in the female and mainly orange in the male. Juveniles have a grey tinge to the duller upperparts, and lack the crown and eye stripes and supercilium, by their first winter, only the flight and tail feathers remain unmoulted, and the young birds are virtually indistinguishable from the adults in the field. This kinglet usually hops with its body held horizontally, and its flight is weak and whirring, with occasional jinking. \\n\\nCompared to the common firecrest, the Madeiran firecrest has a longer bill and legs, a shorter white supercilium, more black on the wings and a deeper golden-bronze shoulder patch; the male's crest is duller orange. Juveniles have plainer heads, lacking the dull supercilium shown by the young of the European species. \\n\\nThe vocalisations of Madeiran and common firecrests both consist of high-pitched notes, but the Madeiran bird has its song divided into three distinct parts, whereas that of the more widespread species just accelerates gradually and covers a much smaller frequency range. The calls of both species include high-pitched fine vocalisations zuu zu-zi-zi, although the Madeiran firecrest also has a distinctive shrill wheez and a whistled peep.",
+    "descr": "The Madeira firecrest is a small plump bird, of 9–10 cm (3.5–3.9 in) length and weighing about 5 g (0.18 oz). It has bright olive-green upperparts with a bronze-coloured patch on each shoulder, and whitish underparts washed with brownish grey on the breast and flanks. It has two white wingbars, a tiny black bill and brownish-black legs. The head pattern is striking, with a black eye stripe, white supercilium and a crest which is yellow in the female and mainly orange in the male. Juveniles have a grey tinge to the duller upperparts, and lack the crown and eye stripes and supercilium, by their first winter, only the flight and tail feathers remain unmoulted, and the young birds are virtually indistinguishable from the adults in the field. This kinglet usually hops with its body held horizontally, and its flight is weak and whirring, with occasional jinking. \n\nCompared to the common firecrest, the Madeiran firecrest has a longer bill and legs, a shorter white supercilium, more black on the wings and a deeper golden-bronze shoulder patch; the male's crest is duller orange. Juveniles have plainer heads, lacking the dull supercilium shown by the young of the European species. \n\nThe vocalisations of Madeiran and common firecrests both consist of high-pitched notes, but the Madeiran bird has its song divided into three distinct parts, whereas that of the more widespread species just accelerates gradually and covers a much smaller frequency range. The calls of both species include high-pitched fine vocalisations zuu zu-zi-zi, although the Madeiran firecrest also has a distinctive shrill wheez and a whistled peep.",
     "coordinates": [{
+        "createdOn": "2015-01-31T23:08:43.156Z",
         "latitude": "42.683400",
         "longitude": "23.353543"
     }],
-    "lastObservedAt": "2016-01-31T23:08:43.156Z",
+    "createdOn": "2015-01-31T23:08:43.156Z",
+    "lastObservedAt": "2015-01-31T23:08:43.156Z",
     "authorName": "veselin"
 }]

@@ -31,7 +31,9 @@ birdsRouter(app);
 app.use(function(err, req, res, next) {
     if (err) {
         res.status(err.status || 500)
-            .json(err);
+            .json({
+                message: err.message
+            });
         return;
     }
 });
